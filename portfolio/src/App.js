@@ -2,6 +2,7 @@ import React from "react";
 import About from "./components/About";
 import Navbar from "./components/Navbar";
 import Life from "./components/Life";
+import Skills from "./components/Skills";
 
 
 export default function App() {
@@ -10,6 +11,7 @@ export default function App() {
       <Navbar />
       <About />
       <Life/>
+      <Skills/>
    
     </main>
   );
