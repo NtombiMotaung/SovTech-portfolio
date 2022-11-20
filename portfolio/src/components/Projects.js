@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Life() {
+export default function Projects() {
   return (
     <section id="lifestyle" className="text-black bg-white body-font">
       <div className="container px-5 py-10 mx-auto text-center lg:px-40">
@@ -32,31 +32,18 @@ export default function Life() {
         <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#winter</span>
       </div>
     </div>
-        {/* <!--Card 1--> */}
-        <div class="rounded overflow-hidden shadow-lg">
-      <img class="w-96" src="./me.jpg" alt="Mountain"/>
-      <div class="px-6 py-4">
-        <div class="font-bold text-xl mb-2">Software Developer</div>
-        <p class="text-gray-700 text-base">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, Nonea! Maiores et perferendis eaque, exercitationem praesentium nihil.
-        </p>
-      </div>
-      <div class="px-6 pt-4 pb-2">
-        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#photography</span>
-        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#travel</span>
-        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#winter</span>
-      </div>
-    </div>
+ 
     {/* card2 */}
-    <div class="rounded overflow-hidden shadow-lg">
+    
+    <div class="content-center rounded overflow-hidden  shadow-lg">
       <img class="w-96" src="./outing.jpeg" alt="River"/>
-      <div class="px-6 py-4">
-        <div class="font-bold text-xl mb-2">Pageant Model</div>
+      <div class="px-8 py-4">
+        <div class="font-bold text-xl mb-2 ">Pageant Model</div>
         <p class="text-gray-700 text-base">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, Nonea! Maiores et perferendis eaque, exercitationem praesentium nihil.
         </p>
       </div>
-      <div class="px-6 pt-4 pb-2">
+      <div class="px-8 pt-4 pb-2">
         <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#photography</span>
         <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#travel</span>
         <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#summer</span>
