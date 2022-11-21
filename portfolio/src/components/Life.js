@@ -6,13 +6,8 @@ export default function Life() {
       <div className="container px-5 py-10 mx-auto text-center lg:px-40">
         <div className="flex flex-col w-full mb-20">
           <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-black">
-            Apps I've Built
+            So, What does Ntombi do?
           </h1>
-          <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
-          </p>
         </div>  
         </div>
 
@@ -23,28 +18,31 @@ export default function Life() {
       <div class="px-6 py-4">
         <div class="font-bold text-xl mb-2">Software Developer</div>
         <p class="text-gray-700 text-base">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, Nonea! Maiores et perferendis eaque, exercitationem praesentium nihil.
+        Give me a computer and let me do what I do best. I am currently a 2nd year software development student at WeThinkCode_ . I am fascinated by writing code to solve real world problems and learning new programming languages. 
         </p>
       </div>
       <div class="px-6 pt-4 pb-2">
-        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#photography</span>
-        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#travel</span>
-        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#winter</span>
+        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#hack</span>
+        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#innovation</span>
+        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#developforthefuture</span>
       </div>
     </div>
         {/* <!--Card 1--> */}
         <div class="rounded overflow-hidden shadow-lg">
-      <img class="w-96" src="./me.jpg" alt="Mountain"/>
+      <img class="w-96 h-68" src="./mentor.jpeg" alt="Mountain"/>
       <div class="px-6 py-4">
-        <div class="font-bold text-xl mb-2">Software Developer</div>
+        <div class="font-bold text-xl mb-2">Tech Mentor</div>
         <p class="text-gray-700 text-base">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, Nonea! Maiores et perferendis eaque, exercitationem praesentium nihil.
+          As a tech mentor, I have to mentor the first year students and guide them in their coding journey.
+          Host workshops and retros for my mentees, host
+ Host one-on-ones for each mentee weekly and 
+ Host code pairing sessions weekly
         </p>
       </div>
       <div class="px-6 pt-4 pb-2">
-        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#photography</span>
-        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#travel</span>
-        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#winter</span>
+        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#leadership</span>
+        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#empower</span>
+        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#learn</span>
       </div>
     </div>
     {/* card2 */}
@@ -53,13 +51,15 @@ export default function Life() {
       <div class="px-6 py-4">
         <div class="font-bold text-xl mb-2">Pageant Model</div>
         <p class="text-gray-700 text-base">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, Nonea! Maiores et perferendis eaque, exercitationem praesentium nihil.
+            I am a model who is into pageantry. Whenever I walk that stage, I 
+            feel confident enough to face massive crowds. I started modelling during the covid 19 lockdown
+            I am a multi- title holder for 3 pageants
         </p>
       </div>
       <div class="px-6 pt-4 pb-2">
         <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#photography</span>
-        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#travel</span>
-        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#summer</span>
+        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#model</span>
+        <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#lifestyle</span>
       </div>
     </div>
     </div>

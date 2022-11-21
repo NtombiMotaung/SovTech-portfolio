@@ -14,8 +14,15 @@ export default function Sovtech() {
       <div class="absolute -inset-1 bg-gradient-to-r from-purple-600 to-pink-600 rounded-lg blur opacity-25 group-hover:opacity-100 transition duration-1000 group-hover:duration-200"></div>
       <div class="relative px-7 py-6 bg-white ring-1 ring-gray-900/5 rounded-lg leading-none flex items-top justify-start space-x-6">
         <div class="space-y-2">
-          <p class="text-slate-800">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, Nonea! Maiores et perferendis eaque, exercitationem praesentium nihil.</p>
-          <a href="https://braydoncoyer.dev/blog/tailwind-gradients-how-to-make-a-glowing-gradient-background" class="block text-indigo-400 group-hover:text-slate-800 transition duration-200" target="_blank">Read Article →</a>
+          <p class="text-slate-800">I hope to learn a lot from the SovTech internship.
+          I would love to be a developer at sovtech becuase the comapnys specs are aligned to my values in life.
+          I see an oportunity to grow and broaden my skills in the development industry through this internship.
+          I will contribute the skills that I have and still am about to acquire to the growth of the comapny as I am 
+          open to learning new skills everyday.
+        
+        
+          </p>
+          
         </div>
       </div>
     </div>

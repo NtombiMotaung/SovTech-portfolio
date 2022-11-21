@@ -11,20 +11,18 @@ export default function About() {
             
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-black">
             Hi, I'm Ntombi
-            <br className="hidden lg:inline-block" />I love to build amazing
-            apps.
+           
           </h1>
           
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            I am a software developer in the making. I enjoy solving real world problems through technology.
+          
           </p>
           <div className="flex justify-center">
             <a
               href="#contact"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-              Work With Me
+              Contact me
             </a>
             <a
               href="#projects"
