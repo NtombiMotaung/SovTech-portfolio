@@ -20,7 +20,7 @@ export default function About() {
           </p>
           <div className="flex justify-center">
             <a
-              href="#contact"
+              href="https://www.linkedin.com/in/ntombifuthi-motaung-95a74a207/"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
               Contact me
             </a>
