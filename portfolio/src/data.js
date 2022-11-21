@@ -57,5 +57,9 @@ export const projects = [
     "Html, CSS, JavaScript",
     "Delphi",
     "Cloud practitioning",
+    "Django",
+    "React",
+    "Cybersecurity",
+    "Problem soliving",
   ];
   

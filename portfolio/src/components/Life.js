@@ -29,7 +29,7 @@ export default function Life() {
     </div>
         {/* <!--Card 1--> */}
         <div class="rounded overflow-hidden shadow-lg">
-      <img class="w-96 h-68" src="./mentor.jpeg" alt="Mountain"/>
+      <img class="w-96 h-96" src="./mentor.jpeg" alt="Mountain"/>
       <div class="px-6 py-4">
         <div class="font-bold text-xl mb-2">Tech Mentor</div>
         <p class="text-gray-700 text-base">

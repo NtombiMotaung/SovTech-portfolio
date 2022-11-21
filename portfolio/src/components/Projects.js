@@ -17,7 +17,7 @@ export default function Projects() {
  <div class="p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5">
     {/* <!--Card 1--> */}
     <div class="rounded overflow-hidden shadow-lg">
-      <img class="w-96 h-96" src="./website.png" alt="Mountain"/>
+      <img class="w-96 h-60" src="./website.png" alt="Mountain"/>
       <div class="px-6 py-4">
         <div class="font-bold text-xl mb-2">Driving school website</div>
         <p class="text-gray-700 text-base">
@@ -25,21 +25,32 @@ export default function Projects() {
         </p>
       </div>
       <a href="http://drivingmasters.co.za/"
-       class="block text-indigo-400 group-hover:text-slate-800 transition duration-200" 
+       class="block text-black group-hover:text-slate-800 transition duration-200" 
        target="_blank">View Website →</a>
+    </div>
+        {/* <!--Card 3--> */}
+        <div class="rounded overflow-hidden shadow-lg">
+      <img class="w-96 h-60" src="./aboutmeweb.png" alt="Mountain"/>
+      <div class="px-6 py-4">
+        <div class="font-bold text-xl mb-2">Personal Website</div>
+        <p class="text-gray-700 text-base">
+          This is a personal website about myself and about what I do
+        </p>
+      </div>
+    
     </div>
  
     {/* card2 */}
     
     <div class="content-center rounded overflow-hidden  shadow-lg">
-      <img class="w-96" src="./git.png" alt="River"/>
+      <img class="w-96 h-60" src="./git.png" alt="River"/>
       <div class="px-8 py-4">
         <div class="font-bold text-xl mb-2 ">Github profile</div>
         <p class="text-gray-700 text-base">
           This is a link to my github profile account, which contains some of the projects that I have been working on
         </p>
       </div>
-      <a href="https://github.com/NtombiMotaung" class="block text-indigo-400 group-hover:text-slate-800 transition duration-200" target="_blank">View Profile →</a>
+      <a href="https://github.com/NtombiMotaung" class="block text-black group-hover:text-slate-800 transition duration-200" target="_blank">View Profile →</a>
     </div>
     </div>
 

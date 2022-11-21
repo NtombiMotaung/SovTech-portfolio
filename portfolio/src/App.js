@@ -14,8 +14,9 @@ export default function App() {
       <About />
       <Life/>
       <Skills/>
-      <Projects/>
       <Sovtech/>
+      <Projects/>
+      
    
     </main>
   );
